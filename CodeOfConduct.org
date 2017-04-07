@@ -26,6 +26,14 @@ different knowledge as compared to you. If you feel the need to berate them, mak
 Unfortunately, eventually, someone will break the code. If this happens, there will be a proportional response that may include
 a warning, distancing and even a ban to participate in the project or associated events. To protect you and us, there is a process ("the CoC process") in place:
 
+** A jury of peers
+
+A CoC-Process board will be constituted by an uneven number of active project members who are invited at random. If an invitation is not followed, new invitations will be sent out until a sufficient board is assembled. 
+
+People who are ineglible to sit on a CoC-process board are the accused, the accuser and any witness. 
+
+After the CoC-process has ended, the board will write a recommondation
+
 ** Full transparency
 Secrets breed rumors. Rumors become power politics. We don't care about power politics. 
 
@@ -34,6 +42,8 @@ If you are accused of breaking this CoC, you may reqest the proceedings to not b
 Witnesses may request their statements to be anonymized in part or in full. 
 
 If you accuse someone of breaking the CoC
+
+
 
 ** Abuse of the CoC
 Someone offended you - we don'T care. If we get the idea that you use the CoC to shut someone up or deny them basic decency, if 
@@ -49,3 +59,4 @@ If you are accused of a serious crime such as for example theft, blackmail or un
 
 
 * About this Code of Conduct
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
