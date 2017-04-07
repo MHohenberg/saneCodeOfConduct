@@ -7,19 +7,45 @@
 
 ** Keep your sex life/politics/witchhunt out of the project
 
-We care about software. As long as your code is good and you can keep your views to yourself, we don't care if you are Muslim,
-Christian, black, genderqueer, transsexual or any combination of these (and other such designations). 
+We care about software. As long as your code is good and you can keep your views to yourself, we don't care if you are Muslim, an Atheist or a Hindu, a man or a woman, black or yellow, wether you believe in gun control or concealed carry, if you identify as genderqueer, transsexual or any combination of these (and other such designations). 
 
-Do not patronize
+We expect the same from you: You should not care about your fellow project member's preferences.
+
+Do not patronize people because they are women. 
 
 ** "Be excellent to each other!"
+
+Remember that - for now - on the other side of the monitor, there's always a person. This person has other life experiences and
+different knowledge as compared to you. If you feel the need to berate them, make sure 
 
 * What does this mean?
 
 
 * When you break the Code
 
+Unfortunately, eventually, someone will break the code. If this happens, there will be a proportional response that may include
+a warning, distancing and even a ban to participate in the project or associated events. To protect you and us, there is a process ("the CoC process") in place:
+
 ** Full transparency
+Secrets breed rumors. Rumors become power politics. We don't care about power politics. 
+
+If you are accused of breaking this CoC, you may reqest the proceedings to not be published. If you do so, we will only publish that there has been a CoC mediation involving you, and the eventual results, but no particularities. 
+
+Witnesses may request their statements to be anonymized in part or in full. 
+
+If you accuse someone of breaking the CoC
+
+** Abuse of the CoC
+Someone offended you - we don'T care. If we get the idea that you use the CoC to shut someone up or deny them basic decency, if 
+we start to get the vibe you are starting a witchhunt against people whose private lives does not align with your ideas, we will
+consider this Abuse of the CoC. In such a case, we will start a CoC process which may result in 
+
+** Severe and lesser crimes
+
+Heated discussions, slurs and flame-wars are "lesser crimes". 
+
+If you are accused of a serious crime such as for example theft, blackmail or unconsensual sexual advances, and we think you did it, you will be expulsed from the project and banned from any future events
+
 
 
 * About this Code of Conduct
