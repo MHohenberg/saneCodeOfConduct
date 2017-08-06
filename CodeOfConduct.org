@@ -2,17 +2,19 @@
 
 * The three basic rules
 
-** Speak through deeds, not words
+** 1. Speak through deeds, not words
 
-** Keep your sex life/politics/witchhunt out of the project
+This applies to your code, but also to your behavior. If you preach one thing and consistently do another, you are a hypocrite and this will be pointed out, especially if your deeds do not live up to these very similar standards described in this document.
+
+** 2. Keep your sex life/politics/witchhunt out of the project
 
 We care about software. As long as your code is good and you can keep your views to yourself, we don't care if you are Muslim, an Atheist or a Hindu, a man or a woman, black or yellow, wether you believe in gun control or concealed carry, if you identify as genderqueer, transsexual or any combination of these (and other such designations). 
 
 We expect the same from you: You should not care about your fellow project member's preferences.
 
-Do not patronize people because they are women. 
+Do not patronize people because they do not conform to your private beliefs or gender standards. 
 
-** "Be excellent to each other!"
+** 3. "Be excellent to each other!"
 
 Remember that - for now - on the other side of the monitor, there's always a person. This person has other life experiences and
 different knowledge as compared to you. If you feel the need to berate them, make sure 
@@ -30,21 +32,20 @@ process") in place:
 
 ** A jury of peers
 
-A CoC-Process board will be constituted by an uneven number of active project members who are invited at random. If an invitation is not followed, new invitations will be sent out until a sufficient board is assembled. 
+A CoC-Process board will be constituted by an uneven number of active project members who are invited at random. The size of this board depends on the number of active project contributors, but should be no less than three and no more than seven. If an invitation is not followed, new invitations will be sent out until a sufficient board is assembled. 
 
 People who are ineglible to sit on a CoC-process board are the accused, the accuser and any witness. 
 
-After the CoC-process has ended, the board will write a recommondation
+After the CoC-process has ended, the board will write a recommondation which the project lead, currently [$ProjectLead's handle], will then act upon. Immediately after this recommondation, the board disbands. 
 
 ** Full transparency
-Secrets breed rumors. Rumors become power politics. We don't care about power politics. 
+Secrets breed rumors. Rumors become power politics. We don't care about power politics.
 
-If you are accused of breaking this CoC, you may reqest the proceedings to not be published. If you do so, we will only publish that there has been a CoC mediation involving you, and the eventual results, but no particularities. 
+If you are accused of breaking this CoC, you may reqest the proceedings to not be published. If you do so, we will only publish that there has been a CoC mediation involving you, and the eventual results, but no particularities. By default, all proceedings are to be held in public. 
 
-Witnesses may request their statements to be anonymized in part or in full. 
+Witnesses may request their statements to be anonymized in part or in full. Their accounts will still enter the public record
 
-If you accuse someone of breaking the CoC
-
+If you accuse someone of breaking the CoC, this accusation will become part of the public record - anonymous accusations are not allowed.
 
 ** Witnesses and evidence
 
@@ -60,7 +61,7 @@ _Example_: Foo has insulted Bar in a project-related flamewar. We would need som
 trail. 
 
 Be aware that we do not concern ourselves with feuds outside of the project, unless there is an 
-actual crime involved.:
+actual crime involved:
 
 _Example_: Foo has political views about the Helmajistani conflict that are offensive to Bar. 
 
@@ -72,16 +73,18 @@ of the "be excellent to each other" rule. We expect proof that Foo was seen in p
 laptop after it got missing and some kind of law enforcement report on this. 
 
 ** Abuse of the CoC
-Someone offended you - we don'T care. If we get the idea that you use the CoC to shut someone up or deny them basic decency, if 
-we start to get the vibe you are starting a witchhunt against people whose private lives does not align with your ideas, we will
-consider this Abuse of the CoC. In such a case, we will start a CoC process which may result in 
+Someone offended you - we don't care. If we get the idea that you use the CoC to shut someone up
+or deny them basic decency, if we start to get the vibe you are starting a witchhunt against
+people whose private lives does not align with your ideas, we will consider this Abuse of the CoC.
+In such a case, we will start a CoC process.
 
-** Severe and lesser violations v
+** Severe and lesser violations 
 
 Heated discussions, slurs and flame-wars are "lesser crimes". 
 
-If you are accused of a serious crime such as for example theft, blackmail or unconsensual sexual advances, and we think you did it, you will be expulsed from the project and banned from any future events
-
+If you are accused of a serious crime such as for example theft, blackmail or unconsensual sexual
+advances in relation to the project, and we think you did it, you will be expulsed from the project
+and banned from any future participation.
 
 * About this Code of Conduct
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
